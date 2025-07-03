@@ -26,6 +26,9 @@ This project uses Alteryx to clean raw Amazon Sales Data.
 ## 📸 Screenshots:
 Included: Workflow + Sample Cleaned Data
 
----
+
+![workflow-screenshot](https://github.com/user-attachments/assets/e1e19cc7-873e-42a8-b2fa-1bfd832678d7)
+
+![cleaned_data](https://github.com/user-attachments/assets/fc43d9ca-f774-4e79-bbe1-50fd8edffbf2)
 
 Created by **Rahi Dabhane** ✨
